@@ -67,13 +67,6 @@ Aplikasi ini menggunakan database MySQL dengan tiga tabel utama:
 - `customers` - Menyimpan data pelanggan
 - `bookings` - Menyimpan data pemesanan lapangan
 
-### Teknologi
-
-- **Backend**: PHP
-- **Frontend**: HTML, TailwindCSS
-- **Database**: MySQL
-- **Server**: XAMPP
-
 # Alur Kerja Aplikasi
 
 ### Inisialisasi
@@ -117,6 +110,6 @@ Aplikasi ini menggunakan database MySQL dengan tiga tabel utama:
 - Sistem mencegah konflik jadwal pemesanan pada lapangan yang sama
 
 # Dokumentasi
-
+https://github.com/user-attachments/assets/cba34818-7a40-4e6d-80d3-595f908ede70
 
 ### Struktur Repo tidak sesuai karena sudah terlanjur dibuat :)
